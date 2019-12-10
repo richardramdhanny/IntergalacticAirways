@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29424.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntergalacticAirways", "IntergalacticAirways.csproj", "{729595BB-43B6-4483-A5E9-EEE08580152D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starships", "Starships.csproj", "{7E7A4040-F5F8-4F11-8E17-87290D32303F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{729595BB-43B6-4483-A5E9-EEE08580152D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{729595BB-43B6-4483-A5E9-EEE08580152D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{729595BB-43B6-4483-A5E9-EEE08580152D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{729595BB-43B6-4483-A5E9-EEE08580152D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E7A4040-F5F8-4F11-8E17-87290D32303F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7A4040-F5F8-4F11-8E17-87290D32303F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7A4040-F5F8-4F11-8E17-87290D32303F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7A4040-F5F8-4F11-8E17-87290D32303F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A91E2600-7614-479D-A1FA-D934550732DF}
+		SolutionGuid = {17667CF8-5222-4639-9FD8-0E15D42BF6EE}
 	EndGlobalSection
 EndGlobal
